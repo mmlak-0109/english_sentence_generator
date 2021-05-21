@@ -1,0 +1,12 @@
+{
+  "name": "english_learning_app",
+  "displayName": "english_learning_app",
+  "expo": {
+    "name": "english_learning_app",
+    "slug": "english_learning_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
